@@ -1,0 +1,4 @@
+include ':app'
+rootProject.name = "SanaDistancia"
+include ':openCVLibrary345'
+include ':java'
