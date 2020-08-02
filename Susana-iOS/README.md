@@ -14,6 +14,10 @@ Mediante el modelo TinyYolo se implementó una aplicación para iOS que consiste
 
 * Posteriormente se llevó a cabo un proceso de refactorización del programa para mejorar el desempeño de nuestro modelo y remover elementos inecesarios.
 
+## Cómo usar
+
+* Descargar el proyecto y abrir el archivo .xcodeproj con Xcode y correrlo con un dispositivo iOS con versión 11 o superior del sistema operativo.
+
 ## Conclusión
 
 Como resultado se logró implementar un modelo que puede mostrar en pantalla 5 bounding boxes ya sea en color verde (sin riesgo de contagio) o en color rojo (riesgo de contagio) junto con una línea roja que conecta las bounding boxes de las personas en riesgo.
